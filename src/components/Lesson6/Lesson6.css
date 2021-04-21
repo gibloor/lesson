@@ -1,0 +1,19 @@
+.task {
+  display: flex;
+  cursor: pointer;
+}
+.textTodo {
+  width: 500px;
+  height: 25px;
+  font-size: 14pt;
+  text-align: left;
+  
+}
+.completeTodo {
+  width: 506px;
+  height: 30px;
+  background-color: white;
+  border: 0.01px solid black;
+  font-size: 14pt;
+  text-align: left;
+}
